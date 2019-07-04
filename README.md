@@ -1,3 +1,4 @@
+置顶。
 <div id="article_text">
 
 						<br>
